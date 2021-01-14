@@ -47,4 +47,4 @@ function addListAfterClickKeyPress(event) {
 }
 
 enterButton.addEventListener("click", addListAfterClick);
-input.addEventListener("keypress", addListAfterClickKeyPress)
+input.addEventListener("keypress", addListAfterClickKeyPress);
